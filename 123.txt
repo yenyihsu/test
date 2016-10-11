@@ -28,3 +28,8 @@
 
 git 沒辦法針對資料夾做權限控管，可改用分成不同repository達到相同目的
 git submodule (某個目錄的子目錄是用不同repository)
+
+
+
+git commit 到本機，可以選擇檔案
+git push/pull 目的是同步所有版本，不能選檔案。
