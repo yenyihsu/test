@@ -1,0 +1,30 @@
+1. 命令提示字元工具 ( Windows )
+
+　Git for Windows
+　http://git-scm.com/
+
+2. 圖形化操作介面工具 ( Windows/Mac )
+
+　TortoiseGit (Windows)
+　https://code.google.com/p/tortoisegit
+
+　Git Extensions
+　http://gitextensions.github.io/
+
+　SourceTree (Windows/Mac)
+　http://www.sourcetreeapp.com
+
+　GitHub for Windows ( 含 Git Shell 工具 )
+　http://windows.github.com
+
+　GitHub for Mac
+　https://mac.github.com/
+
+分享文章
+
+　30 天精通 Git 版本控管
+　https://github.com/doggy8088/Learn-Git-in-30-days
+
+
+git 沒辦法針對資料夾做權限控管，可改用分成不同repository達到相同目的
+git submodule (某個目錄的子目錄是用不同repository)
